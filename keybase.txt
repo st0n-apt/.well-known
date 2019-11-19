@@ -1,0 +1,50 @@
+I hereby claim:
+
+  * I am an admin of https://st0n-apt.github.io
+  * I am st0n (https://keybase.io/st0n) on keybase.
+  * I have a public key ASCSZzJrlHCthbPpOzRBcKhIi0ssiwTXUJMrbx-cLjX2PQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209267326b9470ad85b3e93b344170a8488b4b2c8b04d750932b6f1f9c2e35f63d0a",
+      "host": "keybase.io",
+      "kid": "01209267326b9470ad85b3e93b344170a8488b4b2c8b04d750932b6f1f9c2e35f63d0a",
+      "uid": "de5669e82ed513e029964d8320e35b19",
+      "username": "st0n"
+    },
+    "merkle_root": {
+      "ctime": 1574181995,
+      "hash": "fc48bb762a5e59a3c528e1ed2c57579eb6bc5fb0e7b0fd9a3869e4bf9d4e271dbbb3f8a6ffba9541d7b305f33b35e560f75296b41831a01495c6e49d3592762b",
+      "hash_meta": "4bcb81453ba7499627af074811f8dc5b8b0c12b31bfdbfebfbaa14fa3bfaf232",
+      "seqno": 10218602
+    },
+    "service": {
+      "entropy": "fHDEKUB8YJdfGKX7SPFZ/HX+",
+      "hostname": "st0n-apt.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574182009,
+  "expire_in": 504576000,
+  "prev": "9e5f6980f1ca1e14acb2c70adde475c812fc2bde0a36d966c2f476503cd269ae",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgkmcya5RwrYWz6Ts0QXCoSItLLIsE11CTK28fnC419j0Kp3BheWxvYWTESpcCFMQgnl9pgPHKHhSssscK3eR1yBL8K94KNtlmwvR2UDzSaa7EIMK8q+fE3sFZ65jQil+9sbu9naBt/Cosrnz6x6GYnhaJAgHCo3NpZ8RAdqOf7ZS3mP3J82bCm0rFRxBi4PX8j51oBfd/rAr4/L6/PMTghi/naNO1Mq0+Rum6usFMD2ZM+Gc4UxahrOwaBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEi8SP+6CnKbwLEEUch6YOldaFG74W3KY7Urx79RFx2fo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/st0n
